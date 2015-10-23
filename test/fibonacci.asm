@@ -1,5 +1,6 @@
 ; -----------------------------------------------------------------------------
-;  Fibonacci Generator (Windows x64)
+;  Fibonacci Generator (Windows x64) -- compiles with mingw gcc;
+;  this isnt even good
 ; -----------------------------------------------------------------------------
 
 default rel                     ; Hey computer, assume everything is "nearby" in memory.
